@@ -9,9 +9,5 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  if groceries == category
-    groceries.each do |category, value|
-    return category
-    end
-  end
+  
 end
